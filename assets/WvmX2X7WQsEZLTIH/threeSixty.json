@@ -1,0 +1,72 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "5YWAVZzsQnZ",
+  "title": "Team Member Safety",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Team Member Safety"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6mYGHq36Gtw",
+      "title": "Introduction",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6005tmoaG4A",
+      "title": "Slips, Trips, Falls, and Lifting",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5vIAXXsDVg4",
+      "title": "Chemicals and Burns",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6j8yKe1cCkO",
+      "title": "Fire Safety",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6iqlfmzVVgS",
+      "title": "Safety Data Sheets",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6NKjVjKVkcq",
+      "title": "First Aid Kits",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5yJZalNzWZV",
+      "title": "Cutting Tools",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "61fb7e8GPsn",
+      "title": "Ladder Safety",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6MmgSmnQOf4",
+      "title": "Weapons",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "5gN8LzaXxjC",
+      "title": "Injuries and Incidents",
+      "scene_index": "1.10"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

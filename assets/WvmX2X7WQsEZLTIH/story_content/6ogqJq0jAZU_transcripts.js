@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":5839,"text":"Hey there!"},{"start":6440,"text":"Welcome to the MAC Pizza family!"},{"start":8442,"text":"Today we're diving into something super important, "},{"start":11379,"text":"keeping each other safe and sound."},{"start":14048,"text":"It's all about looking out for one another and making"},{"start":16317,"text":"sure we're all in the loop on how to do just that."},{"start":19486,"text":"Safety isn't just a one person job,"},{"start":21689,"text":"it's a team effort."},{"start":23190,"text":"It starts with getting to know the ins"},{"start":24892,"text":"and outs of our safety policies and practices."},{"start":27862,"text":"Sharing this knowledge"},{"start":28863,"text":"with our teammates"},{"start":30031,"text":"and making it a part of our daily routine."},{"start":32633,"text":"Together,"},{"start":33467,"text":"we can create a workplace"},{"start":34835,"text":"that is not only fun and welcoming,"},{"start":36904,"text":"but safe and secure for everyone."}]}]};
+    window.globalLoadJsAsset('story_content/6ogqJq0jAZU_transcripts.js', JSON.stringify(data));
+})();
